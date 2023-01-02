@@ -1,0 +1,55 @@
+
+
+<html>
+<head>
+  <title>
+    VIRAT KOHLI
+  </title>
+  
+  <style>
+table, th, td {
+  border: solid;
+  border-color: #CD5C5C;
+} th {
+  text-align: right;
+}
+</style>
+</head>
+
+<body>
+  <h1>This is Paragraph1</h1>
+  <h2>This is Paragraph2</h2>
+  <h3>This is Paragraph3</h3>
+  <h3>This is Paragraph4</h3>
+  <p>COntents of paragraph1</p>
+  
+  <h2>Unordered Lists</h2>
+  
+  <ul>
+    <li>Coffee</li>
+    <li>Tea</li>
+    <li>Milk</li>
+  </ul>
+  
+   <h2>ordered Lists</h2>
+  <ol>
+    <li>Coffee</li>
+    <li>Tea</li>
+    <li>Milk</li>
+  </ol>
+  
+ <!--  <img src="https://tesla-cdn.thron.com/delivery/public/image/tesla/56cb8c41-e898-44ce-b6b7-fe9b9a05f529/bvlatuR/std/1200x628/MS-Social" alt="Lamp" width="160" height="160"
+ style="border:5px solid black"> -->
+
+ <img src="https://cdn.britannica.com/25/222725-050-170F622A/Indian-cricketer-Mahendra-Singh-Dhoni-2011.jpg" alt="Lamp" width="160" height="160" style="vertical-align:middle;border:5px solid black">
+
+
+<h2>A basic HTML table</h2>
+
+<table>
+  <tr>
+    <th colspan="2">Company</th>
+    <th style="color:DodgerBlue;">Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
